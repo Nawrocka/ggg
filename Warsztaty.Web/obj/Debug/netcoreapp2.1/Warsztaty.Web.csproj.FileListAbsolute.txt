@@ -34,3 +34,4 @@ C:\Users\Maria\Desktop\Warsztaty\Warsztaty.Web\bin\Debug\netcoreapp2.1\Warsztaty
 C:\Users\Maria\Desktop\Warsztaty\Warsztaty.Web\bin\Debug\netcoreapp2.1\Warsztaty.ViewModel.dll
 C:\Users\Maria\Desktop\Warsztaty\Warsztaty.Web\bin\Debug\netcoreapp2.1\Warsztaty.Core.pdb
 C:\Users\Maria\Desktop\Warsztaty\Warsztaty.Web\bin\Debug\netcoreapp2.1\Warsztaty.ViewModel.pdb
+C:\Users\Maria\Desktop\Warsztaty\Warsztaty.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
